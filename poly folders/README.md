@@ -68,11 +68,8 @@ After successful Mapping you will get a `child address` also known as `fxPortalB
 
 node batchTransfer.js
 
-
-
 ## Author 
-
-Aditi Pandey
+Manju Nagar
 
 ## License
 
